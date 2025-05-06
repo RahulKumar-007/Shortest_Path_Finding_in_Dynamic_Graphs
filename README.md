@@ -12,6 +12,10 @@ This repository implements and evaluates reinforcement learning approaches for f
 - Krishna Sharma, Pratik Rana, Rahul Kumar
 - Computer Science and Artificial Intelligence, Plaksha University, Punjab, India
 
+## Comparative Analysis
+
+- [![Comparative Analysis](Plots/Comparative_Analysis.png)]
+
 ## Key Features
 
 - **Standard Q-Learning** with adaptive training episodes based on graph size
