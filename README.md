@@ -14,7 +14,7 @@ This repository implements and evaluates reinforcement learning approaches for f
 
 ## Comparative Analysis
 
-- [![Comparative Analysis](Plots/Comparative_Analysis.png)]
+![Comparative Analysis](Plots/Comparative_Analysis.png)
 
 ## Key Features
 
